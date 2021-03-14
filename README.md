@@ -157,4 +157,74 @@ Your current assumptions about an effective solution are just that--assumptions 
     * [15 ways to test your MVP](https://thenextweb.com/dd/2014/11/12/15-ways-test-minimum-viable-product/)
 * List the top 3-5 questions you need to answer about your proposed solution.  What type of MVP will help you test your most important questions effectively at the lowest cost?
 
+### 2.4 Customer Interviews - Round 1
 
+You've developed a set of assumptions or "hypotheses" regarding your value proposition.  Now it's time to test these assumptions by getting out of the building and talking to your target customers. The objectives of these interviews are to (1) validate or adapt your understanding of the job your target customers are trying to accomplish and the specific problem(s) they are experiencing, (2) understand how they are accomplishing the job today (i.e., what process and tools do they use now?), and (3) validate or adapt your understanding of the most important pains and/or desired gains they would like to realize from a better solution.
+
+* Conduct 20-30 minute interviews with 7-10 customers before our next class session. Using the interview guide you prepared, conduct your problem interviews to test your most critical assumptions and validate your understanding of the problem(s), pains, and desired gains from the perspective of the most important customer roles in your business ecosystem.  Take notes during your interviews.
+* Log your interviews and record important insights from your customer interviews on your team's Customer Discovery Insights Spreadsheet. Bookmark your team's spreadsheet and update your insights log whenever you have new information from customer interactions. 
+* Use this [Customer Discovery Progress Report-Round 1](https://github.com/sudokhan112/Customer-Discovery-Value-Proposition-Design/blob/main/Customer%20Discovery%20Progress%20Reports.pptx) template to prepare a 5-7 minute progress report on the insights you gained from your customer interviews and the actions you will take as a result.
+
+### 3.1 From Customer Segments to Market Segments
+
+You are starting to understand the problems your target customers want to address along with the functional, social, and emotional benefits that will be needed to consider a new solution.  The next step in your journey is to ensure that these target customers represent a viable market opportunity.  Is your solution sufficiently differentiated from current competitors, alternatives, and substitutes that you can compete and win? Is the market growing, flat, or declining, and are there enough customers to make it financially viable for your business to serve them? 
+
+[Lecture video](https://youtu.be/w21wXFLhSK4)
+
+[Learn more about market segmentation and some common mistakes that are made when segmenting markets](https://www.decisionanalyst.com/whitepapers/marketsegmentation/)
+
+### 3.2 Market Sizing
+
+Sizing the market is a critical factor in testing the viability of a market opportunity.  By understanding the characteristics of users in each segment, how many there are, and how much they spend, you will be in a better position to determine the longer-term market potential AND the specific segment where you can get started--a "beachhead" market where early adopters are likely to want your solution before it is fully developed and refined for the larger, mainstream market segments.   
+
+[Lecture video](https://youtu.be/7B7vKzvrgQk)
+
+* [Download a copy of the Market Sizing Worksheet here: Market Sizing Worksheet](https://github.com/sudokhan112/Customer-Discovery-Value-Proposition-Design/blob/main/Market%20Assessment%20Worksheet.docx)
+* [Learn more about guestimating TAM via a top-down and/or bottom-up approach:  Heini Zachariassen, founder and CEO, Vivino (Raw Startup)](https://youtu.be/vVfQnaIAKNc)
+* [Learn a bit more about how to select a beachhead market: Bill Aulet on selecting a beachhead market ](https://www.youtube.com/watch?v=Yhi8rbc54k0)
+* **Complete the market sizing worksheet for YOUR innovation idea and submit it below.  Focus on guestimating two factors:  TAM (long-term potential) and the size and characteristics of your beachhead market (near-term opportunity).**
+* [Optional:  Deeper dive video lesson on bottom-up market sizing (Startup Akademia)](https://www.youtube.com/watch?v=TM3PYBcrCgM)
+
+### 3.3 Competitive Differentiation
+
+Even if a market is large enough to represent a financially attractive opportunity, it is essential to ensure your solution is different AND better than the existing competitors, alternatives, and substitutes.  Without differentiation in your solution or competitive advantage in your business model, it is unlikely your business will be viable because customers will not be compelled to purchase your solution over the alternatives.
+
+[Lecture video](https://youtu.be/8KUEkzWa7Cg)
+
+[Download a copy of the Competitive Differentiation Worksheets here: Competitive Differentiation Worksheets](https://github.com/sudokhan112/Customer-Discovery-Value-Proposition-Design/blob/main/Competitive%20Differentiation%20Worksheets.pptx)
+
+**Start completing a copy of YOUR competitive differentiation worksheets for at least three competitors or substitutes that you believe pose the greatest threat to your success.  (Of the three different worksheet formats, complete the 2-3 that seem most helpful in your situation.)**
+
+### 3.4 Customer Interviews - Round 2
+
+You've developed a set of assumptions or "hypotheses" regarding your value proposition.  Now it's time to test these assumptions by getting out of the building and talking to your target customers. The objectives of these interviews are to (1) validate or adapt your understanding of the job your target customers are trying to accomplish and the specific problem(s) they are experiencing, (2) understand how they are accomplishing the job today (i.e., what process and tools do they use now?), and (3) validate or adapt your understanding of the most important pains and/or desired gains they would like to realize from a better solution.  
+
+* Conduct 20-30 minute interviews with 7-10 customers before our next class session. Using the interview guide you prepared, conduct your problem interviews to test your most critical assumptions and validate your understanding of the problem(s), pains, and desired gains from the perspective of the most important customer roles in your business ecosystem.  Take notes during your interviews.
+* Log your interviews and record important insights from your customer interviews in your team's Customer Discovery Insights Spreadsheet.  Update your insights log whenever you have new information from customer interactions. 
+* Use this [Customer Discovery Progress Report-Round 2 Preview](https://github.com/sudokhan112/Customer-Discovery-Value-Proposition-Design/blob/main/Report%20Out%20Template.pptx) document template to prepare a 5-7 minute progress report on the insights you gained from your customer interviews and the actions you will take as a result.
+
+### 4.1 Defining a Commercialization Pathway
+
+Defining the best path forward for your technology depends on a number of factors including the nature of the idea and IP,  dynamics within the business ecosystem, timing and cost considerations, and your personal passion and interests as the inventor or creator.   There is no single "right" pathway--the key is to identify the path of greatest opportunity and least resistance based on your definition of success.
+
+[Lecture video](https://youtu.be/LK1G1aw_68o)
+
+Additional resources:
+* [Licensing strategies & case studies](https://www.youtube.com/watch?v=tPmsxPm7kh4&list=PLE97u-3IRxE0DeXwt6hzsh8R5EX38wT3d&index=8&t=0s)
+* [Technology commercialization in academic institutions](https://www.youtube.com/watch?v=MDTItcwi7UE&list=PLE97u-3IRxE0DeXwt6hzsh8R5EX38wT3d&index=7&t=0s)
+* [Academic roles in technology commercialization](https://www.youtube.com/watch?v=hl_Nal-F1Zo&list=PLE97u-3IRxE0DeXwt6hzsh8R5EX38wT3d&index=16&t=0s)
+
+
+### 4.2 Business Model Design
+
+In The Innovator's Solution, Clay Christensen replaced the term “disruptive technology” with the term “disruptive innovation” because he recognized that few technologies are intrinsically disruptive or sustaining in character.  It is the strategy or business model that creates the disruptive impact.  A business model is the way a company organizes and manages itself to create, deliver, and capture value. The Business Model Canvas is an essential tool that helps us systematically identify, test, and refine our business design assumptions across the nine building blocks of a viable business model.
+
+<p>
+    <img src="https://github.com/sudokhan112/Customer-Discovery-Value-Proposition-Design/blob/main/Business%20Model%20Canvas.jpg" width=700 height=400 alt>
+    <em>Business model canvas</em>
+</p>
+
+[Lecture video](https://youtu.be/RvUSslTnQuM)
+
+* Download a copy of the Business Model Canvas template here:  [Business Model Canvas](https://github.com/sudokhan112/Customer-Discovery-Value-Proposition-Design/blob/main/Business%20Model%20Canvas%20Template.pdf)
+* Download a blank [Business Model Canvas template](https://github.com/sudokhan112/Customer-Discovery-Value-Proposition-Design/blob/main/BMC%20Template.png).
