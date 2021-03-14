@@ -18,7 +18,7 @@ This repo contains modues from the course [Intro to Customer Discovery - Fall 20
 ### 0.1 Introduction to I-Corps and Lean LaunchPad
 MWIN, our NSF sponsored Midwest Innovation Corps Node, exists to help aspiring innovators and entrepreneurs develop the mindset, toolset, skillset, and network needed to translate your ideas and IP into customer solutions that generate economic value.  NSF I-Corps has endorsed the Lean LaunchPad methodology as the foundational approach taught by all I-Corps Sites around the country.  Also called the Lean Startup approach.
 
-[Lecture video](https://www.youtube.com/watch?v=btggPe9GLcw)
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Lecture video](https://www.youtube.com/watch?v=btggPe9GLcw)
 
 [Lecture file](https://github.com/sudokhan112/Customer-Discovery-Value-Proposition-Design/blob/main/Lean%20LaunchPad%20Introduction.pdf)
 
@@ -47,7 +47,7 @@ Commercial success begins with testing your assumptions about the value of your 
     <em>Value proposition</em>
 </p>
 
-[Lecture video](https://youtu.be/4Sp_VUWobqI)
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Lecture video](https://youtu.be/4Sp_VUWobqI)
 
 [Download a copy of the Value Proposition Canvas](https://github.com/sudokhan112/Customer-Discovery-Value-Proposition-Design/blob/main/Value%20Proposition%20Canvas%20-%20Printable%20PDF.pdf)
 
@@ -60,9 +60,9 @@ Learn how to use the Value Proposition Canvas in practice here:
 
 The end-user is the target customer that ultimately will use your product or service.  In addition to this end-user,  typically there are additional stakeholders that influence the purchasing process and decision. Some of these stakeholders or customer roles must endorse or approve the decision to purchase your solution; others don't necessarily say yes, but they can say no or otherwise influence the decision-maker to reject your offering.  Therefore, it is critical to identify each of these key customer roles, understand their unique interests and concerns, and adapt your value proposition to overcome any critical barriers to adoption.
 
-[Lecture video 1](https://youtu.be/Z-EbYp0-bJQ)
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Lecture video 1](https://youtu.be/Z-EbYp0-bJQ)
 
-[Lecture Video 2](https://youtu.be/w6NQZVM1sU8)
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Lecture Video 2](https://youtu.be/w6NQZVM1sU8)
 
 Identify your customer buying center. Using the [Customer Roles Worksheet](https://github.com/sudokhan112/Customer-Discovery-Value-Proposition-Design/blob/main/Customer%20Roles%20Worksheet.pdf), identify the key customer roles you believe will be influential in the buying decision for your offering.
 
@@ -71,9 +71,9 @@ Identify your customer buying center. Using the [Customer Roles Worksheet](https
 
 Seek first to understand.  Before you can test the potential value of your proposed solution, you must first understand the problem your target customers and key stakeholders care about, how they currently solve the problem, what pains and frustrations they have with their current solution, and what gains or improvements they would like to see in a better solution. Understanding the problem and needs from the customer's point of view BEFORE you spend significant time and money developing a solution based on assumptions about the customer problem is key to success.
 
-[Lecture video 1](https://youtu.be/f4qDv7h9fLQ)
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Lecture video 1](https://youtu.be/f4qDv7h9fLQ)
 
-[Lecture Video 2](https://youtu.be/zUkZh8ef-no)
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Lecture Video 2](https://youtu.be/zUkZh8ef-no)
 
 [Lecture Slides](https://github.com/sudokhan112/Customer-Discovery-Value-Proposition-Design/blob/main/1-3%20Define%20the%20Problem.pdf)
 
@@ -89,9 +89,9 @@ Use a copy of the **Value Proposition Canvas** to capture your initial responses
 
 Now that you have documented your assumptions about the problem your target customers are trying to solve, the pains and desired gains that matter most to them, and the key concerns of influential stakeholders, it's time to make some initial assumptions about the differentiated solution you believe customers and stakeholders will find better than competitive offerings, alternatives, and substitutes.
 
-[Lecture video 1](https://youtu.be/d3SuMS-LaSc)
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Lecture video 1](https://youtu.be/d3SuMS-LaSc)
 
-[Lecture video 2](https://youtu.be/fbowkzT4iq0)
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Lecture video 2](https://youtu.be/fbowkzT4iq0)
 
 Using the same **Value Proposition Canvas**, focus on the lefthand side (solution), and capture your initial responses to the following questions:
 
@@ -130,8 +130,9 @@ fter identifying your target end-user and other key customer roles, it is essent
 
 The 20-30 interviews you complete during this course should be problem interviews.  Solution interviews as discussed in the next section will come later in your discovery process.
 
-[Lecture video 1](https://youtu.be/YidCjk67t_8)
-[Lecture video 2](https://youtu.be/l-WbRUtHpBs)
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Lecture video 1](https://youtu.be/YidCjk67t_8)
+
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Lecture video 2](https://youtu.be/l-WbRUtHpBs)
 
 [The rules for customer interviews (7.0 mins)](https://youtu.be/KZYntTU3JW4)
 
@@ -147,8 +148,9 @@ You now have some preliminary assumptions about the problem your target customer
 
 Your current assumptions about an effective solution are just that--assumptions based on what you now know.  Before you invest time and money in developing a solution based on assumptions that are likely to be wrong, it is critical to test and validate your solution design with your target customers through solution interviews.
 
-[Lecture video 1](https://youtu.be/qJA6XA6T8Yg)
-[Lecture video 2](https://youtu.be/mLr0Cy4tXY4)
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Lecture video 1](https://youtu.be/qJA6XA6T8Yg)
+
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Lecture video 2](https://youtu.be/mLr0Cy4tXY4)
 
 * Learn more about conducting a solution interview in three easy steps:  problem, proposal, progress.
     * [Solution interviews:  When do you pitch your solution? (4.75 mins)](https://www.youtube.com/watch?v=8r-OR8ghR7o)
@@ -169,7 +171,7 @@ You've developed a set of assumptions or "hypotheses" regarding your value propo
 
 You are starting to understand the problems your target customers want to address along with the functional, social, and emotional benefits that will be needed to consider a new solution.  The next step in your journey is to ensure that these target customers represent a viable market opportunity.  Is your solution sufficiently differentiated from current competitors, alternatives, and substitutes that you can compete and win? Is the market growing, flat, or declining, and are there enough customers to make it financially viable for your business to serve them? 
 
-[Lecture video](https://youtu.be/w21wXFLhSK4)
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Lecture video](https://youtu.be/w21wXFLhSK4)
 
 [Learn more about market segmentation and some common mistakes that are made when segmenting markets](https://www.decisionanalyst.com/whitepapers/marketsegmentation/)
 
@@ -177,7 +179,7 @@ You are starting to understand the problems your target customers want to addres
 
 Sizing the market is a critical factor in testing the viability of a market opportunity.  By understanding the characteristics of users in each segment, how many there are, and how much they spend, you will be in a better position to determine the longer-term market potential AND the specific segment where you can get started--a "beachhead" market where early adopters are likely to want your solution before it is fully developed and refined for the larger, mainstream market segments.   
 
-[Lecture video](https://youtu.be/7B7vKzvrgQk)
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Lecture video](https://youtu.be/7B7vKzvrgQk)
 
 * [Download a copy of the Market Sizing Worksheet here: Market Sizing Worksheet](https://github.com/sudokhan112/Customer-Discovery-Value-Proposition-Design/blob/main/Market%20Assessment%20Worksheet.docx)
 * [Learn more about guestimating TAM via a top-down and/or bottom-up approach:  Heini Zachariassen, founder and CEO, Vivino (Raw Startup)](https://youtu.be/vVfQnaIAKNc)
@@ -189,7 +191,7 @@ Sizing the market is a critical factor in testing the viability of a market oppo
 
 Even if a market is large enough to represent a financially attractive opportunity, it is essential to ensure your solution is different AND better than the existing competitors, alternatives, and substitutes.  Without differentiation in your solution or competitive advantage in your business model, it is unlikely your business will be viable because customers will not be compelled to purchase your solution over the alternatives.
 
-[Lecture video](https://youtu.be/8KUEkzWa7Cg)
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Lecture video](https://youtu.be/8KUEkzWa7Cg)
 
 [Download a copy of the Competitive Differentiation Worksheets here: Competitive Differentiation Worksheets](https://github.com/sudokhan112/Customer-Discovery-Value-Proposition-Design/blob/main/Competitive%20Differentiation%20Worksheets.pptx)
 
@@ -207,7 +209,7 @@ You've developed a set of assumptions or "hypotheses" regarding your value propo
 
 Defining the best path forward for your technology depends on a number of factors including the nature of the idea and IP,  dynamics within the business ecosystem, timing and cost considerations, and your personal passion and interests as the inventor or creator.   There is no single "right" pathway--the key is to identify the path of greatest opportunity and least resistance based on your definition of success.
 
-[Lecture video](https://youtu.be/LK1G1aw_68o)
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Lecture video](https://youtu.be/LK1G1aw_68o)
 
 Additional resources:
 * [Licensing strategies & case studies](https://www.youtube.com/watch?v=tPmsxPm7kh4&list=PLE97u-3IRxE0DeXwt6hzsh8R5EX38wT3d&index=8&t=0s)
@@ -224,12 +226,12 @@ In The Innovator's Solution, Clay Christensen replaced the term “disruptive te
     <em>Business model canvas</em>
 </p>
 
-[Lecture video](https://youtu.be/RvUSslTnQuM)
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Lecture video](https://youtu.be/RvUSslTnQuM)
 
 * Download a copy of the Business Model Canvas template here:  [Business Model Canvas](https://github.com/sudokhan112/Customer-Discovery-Value-Proposition-Design/blob/main/Business%20Model%20Canvas%20Template.pdf)
 * Download a blank [Business Model Canvas template](https://github.com/sudokhan112/Customer-Discovery-Value-Proposition-Design/blob/main/BMC%20Template.png).
 
-[Lecture video](https://youtu.be/r4BJmXIWYeM)
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Lecture video](https://youtu.be/r4BJmXIWYeM)
 
 **Identify your early adopter customers.  How are they likely to be different from the early majority customers who represent the larger, mainstream market opportunity?**
 
@@ -237,7 +239,7 @@ In The Innovator's Solution, Clay Christensen replaced the term “disruptive te
 
 To develop a "plan before the plan" for your technology,  you need to connect early and often with customers to (1) establish product-market fit, and (2) explore a viable business model.  Navigating this iterative commercialization pathway from one major milestone to the next requires that you intentionally manage three interdependent task streams:  product, market, and business.  New insights in any one of these task streams are likely to influence change in one or both of the others; hence, these critical interdependencies must be anticipated and managed proactively.
 
-[Lecture video](https://youtu.be/Powe8xf3KSY)
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) [Lecture video](https://youtu.be/Powe8xf3KSY)
 
 * Download a copy of the [Commercialization Milestone Map](https://github.com/sudokhan112/Customer-Discovery-Value-Proposition-Design/blob/main/Commercialization%20Milestone%20Map.pptx)
 * **Use this template to develop an initial draft of your own commercialization pathway map to achieve the first major milestone you envision in the next 12-18 months.** (Major milestones might include achieving technical feasibility or proof of concept on specific parameters customers expect; achieving SBIR/STTR or other funding to advance your research; developing a working prototype and completing a beta test with customers; identifying a regulatory pathway for your technology; completing pre-clinical trials; etc.)
@@ -252,5 +254,3 @@ As the quotes below remind us, innovation is inherently iterative with many fail
 
 Using the idea pitch template as a guide, update your elevator pitch, and in two minutes or less, record your pitch as well as the **two most important insights you've gained from your customer interviews.**
 
-
-**If you followed all the steps correctly, YOU ARE READY to launch your idea into a product**
