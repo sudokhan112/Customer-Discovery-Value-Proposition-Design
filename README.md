@@ -252,3 +252,5 @@ As the quotes below remind us, innovation is inherently iterative with many fail
 
 Using the idea pitch template as a guide, update your elevator pitch, and in two minutes or less, record your pitch as well as the **two most important insights you've gained from your customer interviews.**
 
+
+**If you followed all the steps correctly, YOU ARE READY to launch your idea into a product**
