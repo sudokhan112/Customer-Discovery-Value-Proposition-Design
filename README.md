@@ -107,4 +107,54 @@ Using the same **Value Proposition Canvas**, focus on the lefthand side (solutio
 * How do you know your solution is unique? 
 * What IP strategy will help you protect your differentiation?
 
+### 1.5 Plan Customer Interviews
+
+As previously mentioned, customer discovery is THE key to developing a successful value proposition.  In order to complete 20-30 interviews in the next six weeks, you need to start planning and scheduling your interviews with target customers now. 
+* First, block time on your calendar for the next six weeks to ensure you have multiple blocks of time each week when you are available to schedule interviews. 
+* Then, start making a list of roles and companies that represent your target customer segment and start identifying specific individuals in these roles and companies who are in your network, recommended by people in your network, or identifiable through LinkedIn or other databases.
+* Finally, start planning the assumptions or hypotheses you need to test regarding technology-problem for or product-market fit for your technology.
+
+Your first few interviews will likely be a bit challenging, so start by scheduling your first 2-3 "practice" interviews with people in your network who represent or closely approximate your target customers but are not the ideal customers you want to interview--schedule these interviews a bit later when you have more experience.  In our next module, you'll learn more about how to conduct effective problem interviews.  For now, focus on identifying target customers you want to interview, getting the first 2-3 interviews scheduled, and planning the questions you want to ask to test your most important assumptions.
+
+[Pre-plan your contacts](https://vimeo.com/87303446)
+
+[Who should I interview?](https://youtu.be/m0kiZocBbO8)
+
+[Review these 12 tips for early customer discovery interviews.](http://giffconstable.com/2012/12/12-tips-for-early-customer-development-interviews-revision-3/)
+
+**[Download the attached customer interview planning guide and document your initial interview plans](https://github.com/sudokhan112/Customer-Discovery-Value-Proposition-Design/blob/main/Customer%20Discovery%20Interview%20Prep.docx)**
+
+### 2.1 Problem Interviews
+
+fter identifying your target end-user and other key customer roles, it is essential to get out of the building and ensure you understand the problem(s) these key customers are trying to solve from THEIR perspective.  Until you have validated and prioritized your understanding of the problem(s) that matters most to them and how they currently solve this problem, you won't be in a position to assess the "fit" of your proposed solution or its differentiated value from current options.
+
+The 20-30 interviews you complete during this course should be problem interviews.  Solution interviews as discussed in the next section will come later in your discovery process.
+
+[Lecture video 1](https://youtu.be/YidCjk67t_8)
+[Lecture video 2](https://youtu.be/l-WbRUtHpBs)
+
+[The rules for customer interviews (7.0 mins)](https://youtu.be/KZYntTU3JW4)
+
+[What should I ask in interviews? (7.0 mins)](https://youtu.be/OTkP2JDeGWM)
+
+[Blog post by Steve Blank:  Conducting Virtual Customer Interviews](https://www.linkedin.com/pulse/customer-discovery-time-covid-19-virus-steve-blank/)
+
+**Update your customer interview guide to use in your upcoming interviews.  Apply the tips and suggestions you learned in these video lessons to improve your problem interviews.**
+
+### 2.2 Solution Interviews
+
+You now have some preliminary assumptions about the problem your target customer and key stakeholders are trying to solve, how they currently solve the problem, and their priority pains and desired gains. It is critical to test your understanding of the customer problem(s) early and often with real customers to ensure you are addressing an important need that matters from THEIR perspective.  The 20-30 interviews you complete in this course should be primarily problem interviews to validate your understanding of the problem and inform the next steps in your technical feasibility research and/or product/solution design work.  This said, once you have validated your understanding of the customer problem(s), key pains, and desired gains, you also will need to conduct solution interviews to test (1) how well the solution you envision addresses the priority pains and desired gains of your target customers and (2) how you will need to adapt your solution to offer differentiated value and overcome barriers to adoption.
+
+Your current assumptions about an effective solution are just that--assumptions based on what you now know.  Before you invest time and money in developing a solution based on assumptions that are likely to be wrong, it is critical to test and validate your solution design with your target customers through solution interviews.
+
+[Lecture video 1](https://youtu.be/qJA6XA6T8Yg)
+[Lecture video 2](https://youtu.be/mLr0Cy4tXY4)
+
+* Learn more about conducting a solution interview in three easy steps:  problem, proposal, progress.
+    * [Solution interviews:  When do you pitch your solution? (4.75 mins)](https://www.youtube.com/watch?v=8r-OR8ghR7o)
+* Decide how to design a minimum viable product (MVP) or conceptual prototype to help customers visualize your proposed solution so you can better test your solution assumptions. Here are some ideas:
+    * [Developing a minimum viable product](https://blog.strategyzer.com/posts/2015/5/7/dont-build-when-you-build-measure-learn)
+    * [15 ways to test your MVP](https://thenextweb.com/dd/2014/11/12/15-ways-test-minimum-viable-product/)
+* List the top 3-5 questions you need to answer about your proposed solution.  What type of MVP will help you test your most important questions effectively at the lowest cost?
+
 
