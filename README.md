@@ -54,3 +54,57 @@ Commercial success begins with testing your assumptions about the value of your 
 Learn how to use the Value Proposition Canvas in practice here:
 * [Design a better business](https://www.designabetterbusiness.tools/tools/value-proposition-canvas)
 * [Value Proposition Canvas Instruction Guide](https://github.com/sudokhan112/Customer-Discovery-Value-Proposition-Design/blob/main/the-value-proposition-canvas-instruction-manual.pdf)
+
+
+### 1.2 Customer Roles
+
+The end-user is the target customer that ultimately will use your product or service.  In addition to this end-user,  typically there are additional stakeholders that influence the purchasing process and decision. Some of these stakeholders or customer roles must endorse or approve the decision to purchase your solution; others don't necessarily say yes, but they can say no or otherwise influence the decision-maker to reject your offering.  Therefore, it is critical to identify each of these key customer roles, understand their unique interests and concerns, and adapt your value proposition to overcome any critical barriers to adoption.
+
+[Lecture video 1](https://youtu.be/Z-EbYp0-bJQ)
+
+[Lecture Video 2](https://youtu.be/w6NQZVM1sU8)
+
+Identify your customer buying center. Using the [Customer Roles Worksheet](https://github.com/sudokhan112/Customer-Discovery-Value-Proposition-Design/blob/main/Customer%20Roles%20Worksheet.pdf), identify the key customer roles you believe will be influential in the buying decision for your offering.
+
+
+### 1.3 Define the Problem
+
+Seek first to understand.  Before you can test the potential value of your proposed solution, you must first understand the problem your target customers and key stakeholders care about, how they currently solve the problem, what pains and frustrations they have with their current solution, and what gains or improvements they would like to see in a better solution. Understanding the problem and needs from the customer's point of view BEFORE you spend significant time and money developing a solution based on assumptions about the customer problem is key to success.
+
+[Lecture video 1](https://youtu.be/f4qDv7h9fLQ)
+
+[Lecture Video 2](https://youtu.be/zUkZh8ef-no)
+
+[Lecture Slides](https://github.com/sudokhan112/Customer-Discovery-Value-Proposition-Design/blob/main/1-3%20Define%20the%20Problem.pdf)
+
+Use a copy of the **Value Proposition Canvas** to capture your initial responses to describe the target customer segment you are targeting. 
+
+* Name the segment and briefly describe the key characteristics of this segment that distinguish it from other segments.
+* Describe the job your customer is trying to accomplish. What outcome does your target customer want to achieve?  How do your customers measure success (i.e., what metrics do they consider most important, and what level of improvement do they seek on these metrics)? 
+* What are the critical steps in your target customers' workflow as they complete this job currently?
+* Define the problem. What is the fundamental problem you believe your target customers are trying to solve while completing this job? 
+* What 2-3 pains and/or desired gains do you believe are most important to your customers?
+
+### 1.4 Identify the Solution
+
+Now that you have documented your assumptions about the problem your target customers are trying to solve, the pains and desired gains that matter most to them, and the key concerns of influential stakeholders, it's time to make some initial assumptions about the differentiated solution you believe customers and stakeholders will find better than competitive offerings, alternatives, and substitutes.
+
+[Lecture video 1](https://youtu.be/d3SuMS-LaSc)
+
+[Lecture video 2](https://youtu.be/fbowkzT4iq0)
+
+Using the same **Value Proposition Canvas**, focus on the lefthand side (solution), and capture your initial responses to the following questions:
+
+**Pain relievers:** 
+* How does your solution help your customers overcome important pains? 
+* How will your solution help eliminate functional, emotional, or social pains in the current customer experience?
+
+**Gain creators:** 
+* What improvements (functional, emotional, or social) can you offer customers to help them achieve articulated or unarticulated benefits that will improve their performance on metrics that matter most to them?
+
+**Products and services:** 
+* What new, unique, and differentiated products and/or services can you offer your target customers? 
+* How do you know your solution is unique? 
+* What IP strategy will help you protect your differentiation?
+
+
