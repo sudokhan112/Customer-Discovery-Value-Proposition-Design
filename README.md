@@ -228,3 +228,27 @@ In The Innovator's Solution, Clay Christensen replaced the term “disruptive te
 
 * Download a copy of the Business Model Canvas template here:  [Business Model Canvas](https://github.com/sudokhan112/Customer-Discovery-Value-Proposition-Design/blob/main/Business%20Model%20Canvas%20Template.pdf)
 * Download a blank [Business Model Canvas template](https://github.com/sudokhan112/Customer-Discovery-Value-Proposition-Design/blob/main/BMC%20Template.png).
+
+[Lecture video](https://youtu.be/r4BJmXIWYeM)
+
+**Identify your early adopter customers.  How are they likely to be different from the early majority customers who represent the larger, mainstream market opportunity?**
+
+### 4.4 Milestones and Dependencies
+
+To develop a "plan before the plan" for your technology,  you need to connect early and often with customers to (1) establish product-market fit, and (2) explore a viable business model.  Navigating this iterative commercialization pathway from one major milestone to the next requires that you intentionally manage three interdependent task streams:  product, market, and business.  New insights in any one of these task streams are likely to influence change in one or both of the others; hence, these critical interdependencies must be anticipated and managed proactively.
+
+[Lecture video](https://youtu.be/Powe8xf3KSY)
+
+* Download a copy of the [Commercialization Milestone Map](https://github.com/sudokhan112/Customer-Discovery-Value-Proposition-Design/blob/main/Commercialization%20Milestone%20Map.pptx)
+* **Use this template to develop an initial draft of your own commercialization pathway map to achieve the first major milestone you envision in the next 12-18 months.** (Major milestones might include achieving technical feasibility or proof of concept on specific parameters customers expect; achieving SBIR/STTR or other funding to advance your research; developing a working prototype and completing a beta test with customers; identifying a regulatory pathway for your technology; completing pre-clinical trials; etc.)
+
+### 4.5 Customer Interviews - Round 3
+
+You've been testing your hypotheses and refining your assumptions regarding your value proposition and product-market-fit.  What critical assumptions and questions must still be tested in order to determine the viability of your technology as you currently envision it?  Use this third round of interviews to test these assumptions and inform the next steps on your commercial pathway. (same steps as Round 2)
+
+### 4.6 Updated Idea Pitch
+
+As the quotes below remind us, innovation is inherently iterative with many failures along the way.  The key to success is to reflect on our experience, learn from our mistakes, and search for the opportunity in every difficulty. 
+
+Using the idea pitch template as a guide, update your elevator pitch, and in two minutes or less, record your pitch as well as the **two most important insights you've gained from your customer interviews.**
+
